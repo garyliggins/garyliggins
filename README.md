@@ -1,7 +1,7 @@
 
 I am dedicated and results-driven Software Engineer and Data Analyst bringing along work experience in marketing, business development, and brands promotion. Skilful in assisting with all aspects of software design with primary focus on learning codebase, and responding to requests from senior developers. I am Knowledge of the software development life cycle with the ability to work with a high degree of autonomy and self-direction along with passion and willingness to continue learning and utilizing up-and-coming technology.
 
-	Technical Projects 💻 
+		Technical Projects 💻 
 
 • Restaurant reviews web application using the MERN Stack that lets you search restaurants and look at reviews. Once a user logs in that user can create, edit, and delete reviews that user has made. Anyone can also use google maps to get directions to any restaurant. Application uses sample data from MongoDB, styling done with Bootstrap.
   LIVE
@@ -20,7 +20,7 @@ LIVE
 
 
 
-	Career History 👨🏾‍💻
+		Career History 👨🏾‍💻
 
 KOLYDE, LOS ANGELES
 
