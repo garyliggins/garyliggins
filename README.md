@@ -4,19 +4,19 @@ I am dedicated and results-driven Software Engineer and Data Analyst bringing al
 		Technical Projects 💻 
 
 • Restaurant reviews web application using the MERN Stack that lets you search restaurants and look at reviews. Once a user logs in that user can create, edit, and delete reviews that user has made. Anyone can also use google maps to get directions to any restaurant. Application uses sample data from MongoDB, styling done with Bootstrap.
-  LIVE
+  
 
 • Exchange rate calculator that makes a fetch request to a 3rd party API to get exchange rates and input them into the DOM. The User will be able to pick a currency from any country and see the exchange rate by comparing it to another country. Web application made with JavaScript and styled with CSS.
-LIVE
+
 
 • Sample Brochure for a travel agency made with React and Bootstrap.
-LIVE
+
 
 • CRUD application that takes users from MySQL and displays the user’s information on the front end and lets the user create, edit, and delete users in MySQL from the front end of the application. Application uses MySQL, JavaScript, Node, and Express.
-LIVE
+
 
 •Google Maps Store Locator that uses the Google Maps API and lets a user type in any zip code and it will show stores in that zip code, you can also get directions and call each store. Application uses the Google Maps API and JavaScript, NodeJS and MongoDB.
-LIVE
+
 
 
 
