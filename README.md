@@ -21,6 +21,28 @@ I am dedicated and results-driven Software Engineer and Data Analyst bringing al
 
 
 		Career History 👨🏾‍💻
+		
+KONICA MINOLTA BUSINESS SOLUTIONS, LOS ANGELES
+
+Software Engineer Analyst
+
+•Writing and debugging code with Java, JavaScript, HTML, CSS, and other common programming languages.
+
+•Collaborate with other developers and engineers to design, build, and maintain applications 
+
+• Build applications for various business solutions platforms using web frameworks angular and react
+Troubleshoot software issues
+
+•Provide on-call support as necessary
+
+•Serves as a key point of contact/lead for advanced projects, provide project and progress reviews to business unit owners
+Develops documentation of business process flows; Assess and document existing and create new business procedures
+
+•Review and develop metrics and reporting tools that could be used to measure effectiveness and efficiencies of processes and systems
+Collect, organize, and query data from SQL, Firebase and other databases required for project deliverables
+
+•Participate in daily scrum meetings with multiple development teams and departments
+
 
 KOLYDE, LOS ANGELES
 
